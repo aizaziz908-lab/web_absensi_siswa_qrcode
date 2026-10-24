@@ -1,0 +1,23 @@
+# Uploaded test captures (camera selfies)
+uploads/captures/*
+!uploads/captures/.gitkeep
+
+# Uploaded test medical permits
+uploads/permits/*
+!uploads/permits/.gitkeep
+
+# Uploaded student photos (keep folder)
+uploads/photos/*
+!uploads/photos/.gitkeep
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
